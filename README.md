@@ -515,3 +515,92 @@ name="keywords" content="Asymmetric AR Glass, Physical Darkroom Optics, Shroud D
 ------------------------------
 
 
+
+## [EN] 10. Core Component Partitioning & Dual-Purpose Optical Modulation Architecture
+## [ZH] 10. 核心組件分流與雙用途光調變架構
+[EN]
+
+      +-------------------------------------------------------+
+
+      |               FACIAL WEARABLE (GLASSES)               |
+      |   [Perception Shroud]                     [No Heat]   |
+      +-------------------------------------------------------+
+
+                                 |  (Flexible Coaxial Tether)
+                                 v
+      +-------------------------------------------------------+
+
+      |             EXTERNAL COMPUTE UNIT (BRAIN)             |
+      |   [Logic Core] + [OPTICAL MODULATION MODULE] (TFLN)   |
+      +-------------------------------------------------------+
+
+
+
+                                 |
+         (1st Lifecycle: Wearable) | (2nd Lifecycle: Server Node)
+                                 v
+
+      +-------------------------------------------------------+
+
+      |              INFRASTRUCTURE SUPERCLUSTER              |
+      |   [Server Rack backplane] <-> [FIBER OPTIC TELECOM]   |
+      +-------------------------------------------------------+
+
+## 1) Migration of Optical Modulators to External Compute Unit
+
+* Facial Thermal Elimination: Unlike conventional AR systems that cram fragile high-frequency optical transceivers inside the frame, this system completely strips the active "Optical Modulation Module" away from the face wearable and integrates it directly into the external torso compute unit.
+* The Zero-Thermal Frame: By moving the power-hungry optical modulators alongside the core processing silicon, the face wearable acts solely as a passive sensor collection matrix. This eliminates up to 85% of structural thermal dissipation on the user's face, ensuring comfort during peak-load processing loops.
+
+## 2) Dual-Purpose Telecommunications Lifecycle (Wearable to Server Node)
+
+* First Lifecycle (Wearable Transmission Bus): During the individual mobile usage phase, the integrated optical modulation module utilizes thin-film architectures to modulate raw data streams, handling ultra-high-bandwidth, zero-latency processing link between the torso brain and the facial screen via the tether.
+* Second Lifecycle (Native Fiber-Optic Datacenter Interconnect): When the core mainboard finishes its mobile term and plugs into the backend infrastructure rack, the exact same optical modulation module shifts its operational protocol. It immediately functions as a native, high-throughput Fiber-Optic Communication Interface.
+* Zero-Overhead Server Clustering: The system connects straight into the datacenter’s backbone optical network, using its native onboard optics to drive ultra-dense cloud server clustering without requiring additional transceivers, chemical smelting, or hardware reprocessing.
+
+------------------------------
+[ZH]
+
+      +-------------------------------------------------------+
+
+      |                  面部感知端（眼鏡本體）                 |
+      |   [環境視覺捕捉]                           [絕對零發熱]  |
+      +-------------------------------------------------------+
+
+                                 |  (柔性同軸傳輸線鏈)
+                                 v
+      +-------------------------------------------------------+
+
+      |                  外部主算力單元（大腦）                 |
+      |   [運算核心] + [光調變模組]（薄膜無機晶體）               |
+      +-------------------------------------------------------+
+
+
+                                 |
+         (第一生命週期：移動裝置) | (第二生命週期：伺服器節點)
+                                 v
+
+      +-------------------------------------------------------+
+
+      |                  國家級基礎設施超算集群                 |
+      |   [機架接入背板] <------直連------> [高頻寬光纖通訊網路]  |
+      +-------------------------------------------------------+
+
+## 1) 光調變模組移置外部運算單元
+
+* 面部熱源徹底根除： 傳統 AR 系統常將脆弱的高頻光電轉換元件強行塞入鏡框中，本系統則徹底將主動式「光調變模組」自面部感知端剝離，並將其完整整合於物理隔離的外部軀幹運算單元（大腦）中。
+* 零發熱面部載具： 透過將高能耗的光調變組件與核心處理晶片同步移出，眼鏡本體僅作為純粹的被動式視覺感知矩陣。這消除了面部載具高達 85% 的結構性熱耗散，確保用戶在長時間、高吞吐量的資料處理狀態下，面部依然保持絕對舒適與清涼。
+
+## 2) 雙用途通訊生命週期轉換（移動端至伺服器節點）
+
+* 第一生命週期（移動端傳輸匯流排）： 在個人的移動配戴階段，這套整合在外部單元中的光調變模組，利用其高穩定性的薄膜架構對原始數據流進行高速調變，透過傳輸線鏈維持面部螢幕與軀幹大腦之間超高頻寬、無感知延遲的極致資料傳輸。
+* 第二生命週期（原生伺服器光纖通訊介面）： 當核心主板兩年期滿、回收並盲插接入後端數據中心的標準化機架後，這塊主板上完全未受損的同一個光調變模組將無縫切換其運作協議，直接變身為伺服器集群中的原生高吞吐量 「光纖通訊介面」。
+* 零重造超算集群互連： 該組件能夠直接與超算中心的骨幹光纖網路對接，利用其原本在個人端服役時的硬體光學經絡，驅動極高密度的雲端伺服器集群互連。整個過程不需要任何額外的光電轉換模組採購，更不需進行化學熔解提煉，實現真正的零廢棄硬體轉生。
+
+------------------------------
+## 【特別專欄：修仙術語追加轉譯】
+
+* 光調變模組 / 高頻光電轉換元件 → 「太西光馭靈脈 / 光子調御經絡」
+* 伺服器內的光纖通訊功能 / 光纖網路 → 「天道大陣光纖靈氣互連 / 九天千絲通天陣」
+* 減少眼鏡發熱 → 「眼脈熱煞清淨 / 靈台避熱絕法」
+
+------------------------------
