@@ -61,7 +61,6 @@ It sounds like a cyber-punk joke, but the hardware physics and circular supply c
    [ Left Eye: Pure Reality ]               [ Right Eye: AI Shroud ]
       ( High Transmittance )                  ( Physical Darkroom )
       +--------------------+                  +--------------------+
-
       |                    |    Rigid Frame   |   [Micro-Display]  |
       |   See-Through      |==================|          +         |
       |   Safety Optics    |   Asymmetric     |   [Folded Optics]  |
@@ -302,12 +301,15 @@ It sounds like a cyber-punk joke, but the hardware physics and circular supply c
 [EN]
 
    【 2-Year Mobile Phase 】 (High-end AR Wearable, subsidized retail price)
+   
               |
               v (Mandatory Return Contract enforced)
    【 Zero-Waste Hot-Swap 】 (Mainboard extracted completely intact)
+   
               |
               v
    【 8-Year Infrastructure 】 (Directly plugged into standardized server racks)
+   
               |
               v
    【 Collective Supercomputing 】 (Runs cloud compute networks and public assets)
@@ -335,12 +337,16 @@ It sounds like a cyber-punk joke, but the hardware physics and circular supply c
 [ZH]
 
    【 2年個人端生命 】 (高階AR穿戴載具，享受公共基金高額補貼)
+   
               |
               v (綁定法規與數位契約，到期強制物理回收)
    【 零廢棄物理重組 】 (主板零損傷直接抽離，免熔解免提煉)
+   
               |
               v
+            
    【 8年公共端生命 】 (盲插接入標準化機架槽位，組成超算中心)
+   
               |
               v
    【 雲端母體天道系統 】 (跑大規模雲端算力與城市智慧化運作)
@@ -443,7 +449,9 @@ augmented-reality spatial-computing hardware-ecosystem circular-economy green-co
 ## [SEO 關鍵字 / SEO Technical Keywords]
 (Injected at the very bottom of the README for future search crawler discovery)
 
-<meta name="keywords" content="Asymmetric AR Glass, Physical Darkroom Optics, Shroud Display Matrix, Split Computing Architecture, Coaxial Suspension Bus, Thin-Film Optical Modulator, Infrastructure Grade Hardware, Hardware Recycling Lifecycle, Closed Loop Asset Contract, Zero Waste Supercomputer, Tech Prophecy Joke" />
+
+ meta 
+name="keywords" content="Asymmetric AR Glass, Physical Darkroom Optics, Shroud Display Matrix, Split Computing Architecture, Coaxial Suspension Bus, Thin-Film Optical Modulator, Infrastructure Grade Hardware, Hardware Recycling Lifecycle, Closed Loop Asset Contract, Zero Waste Supercomputer, Tech Prophecy Joke" />
 
 ------------------------------
 
